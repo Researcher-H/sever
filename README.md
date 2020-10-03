@@ -14,6 +14,8 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 
 クイックリビュー（日本語・英語、混濁）
 [link](https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-javascript){:target="_blank"}
+<a href="http://example.com/" target="_blank">Hello, world!</a>
+
 
 1. [(atmarkit) サーバサイドJavaScriptの本命「node.js」の基礎知識 (1/3)](https://www.atmarkit.co.jp/ait/articles/1102/28/news105.html)
 1. [(digitalidentity) JavaScriptをサーバサイドで動かせる！Node.jsの魅力とは？](https://digitalidentity.co.jp/blog/creative/javascript-nodejs.html)
