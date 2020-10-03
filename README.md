@@ -1,6 +1,6 @@
 # Sever (Node.js / Express.js)
 
-JavaScriptのサーバー操作を学びます(下図の①②の操作)
+JavaScriptのサーバー操作を学びます(下図の①②+DB(③)の操作)
 
 [<img src="https://media.prod.mdn.mozit.cloud/attachments/2016/08/31/13829/3bdb0c966814fc9395d23828a919391a/Web%20Application%20with%20HTML%20and%20Steps.png">](http://google.com.au/)
 (参照:[MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Client-Server_overview))
