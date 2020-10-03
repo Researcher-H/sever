@@ -2,6 +2,10 @@
 
 JavaScriptのサーバー操作を学びます
 
+[<img src="https://media.prod.mdn.mozit.cloud/attachments/2016/08/31/13829/3bdb0c966814fc9395d23828a919391a/Web%20Application%20with%20HTML%20and%20Steps.png">](http://google.com.au/)
+
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+
 <br>
 
 一文で言い表す
@@ -44,6 +48,7 @@ JavaScript & サーバ関連で、気になっている事柄・キーワード
 - API
 - ajax
 - npm/npx
+- app/アプリケーショーン
 
 <br>
 
