@@ -69,9 +69,9 @@ https://blog.bitsrc.io/a-beginners-guide-to-server-side-web-development-with-nod
 ### 記事読了後の感想
 
 nodejs' framework
------ express
------ koa
------ etc
+----- express  
+----- koa  
+----- etc  
 
 Node.jsはシングルスレッドで処理(1つのリクエストに対して1つのスレッド)  
 Node.jsはNoSQLを使用 -> NoSQL = JSONでデータを管理  
