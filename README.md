@@ -78,6 +78,7 @@ Node.jsはNoSQLを使用 -> NoSQL = JSONでデータを管理
 NoSQL - MongoDB  
 require('fs')  
 require('http')  
+require('url')  
 
 ---
 
