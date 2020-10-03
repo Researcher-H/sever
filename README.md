@@ -5,6 +5,9 @@ JavaScriptのサーバー操作を学びます(下図の①②の操作)
 [<img src="https://media.prod.mdn.mozit.cloud/attachments/2016/08/31/13829/3bdb0c966814fc9395d23828a919391a/Web%20Application%20with%20HTML%20and%20Steps.png">](http://google.com.au/)
 (参照:[MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Client-Server_overview))
 
+<br>
+<br>
+
 ---
 
 <br>
@@ -15,6 +18,9 @@ JavaScriptのサーバー操作を学びます(下図の①②の操作)
 https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-javascript
 
 上記の記事によると、JavaScriptのサーバ操作は主にHTTP通信の操作の事らしいです
+
+<br>
+<br>
 
 ---
 
@@ -41,6 +47,9 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 1. [(w3schools) Node.js Tutorial](https://www.w3schools.com/nodejs/default.asp)
 1. [(MDN) サーバサイド Web サイトプログラミング](https://developer.mozilla.org/ja/docs/Learn/Server-side)
 
+<br>
+<br>
+
 ---
 
 <br>
@@ -57,6 +66,9 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 - ajax
 - npm/npx
 - app/アプリケーショーン
+
+<br>
+<br>
 
 ---
 
@@ -79,6 +91,9 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 
 https://blog.bitsrc.io/a-beginners-guide-to-server-side-web-development-with-node-js-17385da09f93
 
+<br>
+<br>
+
 ---
 
 <br>
@@ -99,9 +114,15 @@ NoSQL - MongoDB
 
 
 
+<br>
+<br>
 
+---
 
-Glossary
+<br>
+<br>
+
+#### Glossary
 - ノンブロッキングI/O (Input/Output)
 - ブロッキング処理 = 一つの処理が完了するまで他の処理は行わない = sync, async
 - WebSocket通信 = ウェブアプリ（インターネットを介して動作するapp）で双方向通信を実現するための技術規格
