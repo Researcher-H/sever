@@ -2,8 +2,8 @@
 
 JavaScriptのサーバー操作を学びます
 
-サーバサイドJavaScriptの本命「node.js」の基礎知識 (1/3)
-https://www.atmarkit.co.jp/ait/articles/1102/28/news105.html
+[atmarkit.co.jp: - サーバサイドJavaScriptの本命「node.js」の基礎知識 (1/3)](https://www.atmarkit.co.jp/ait/articles/1102/28/news105.html)
+
 
 JavaScriptをサーバサイドで動かせる！Node.jsの魅力とは？
 https://digitalidentity.co.jp/blog/creative/javascript-nodejs.html
