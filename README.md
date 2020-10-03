@@ -1,9 +1,12 @@
 # Sever (Node.js / Express.js)
 
-JavaScriptのサーバー操作を学びます
+JavaScriptのサーバー操作を学びます  
+下図の①②  
 
 [<img src="https://media.prod.mdn.mozit.cloud/attachments/2016/08/31/13829/3bdb0c966814fc9395d23828a919391a/Web%20Application%20with%20HTML%20and%20Steps.png">](http://google.com.au/)
 (参照:[MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Client-Server_overview))
+
+---
 
 <br>
 <br>
@@ -14,10 +17,13 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 
 上記の記事によると、JavaScriptのサーバ操作は主にHTTP通信の操作の事らしいです
 
+---
+
 <br>
 <br>
 
-クイックリビュー（日本語・英語、混濁）
+### クイックリビュー（日本語・英語、混濁）
+
 1. [(atmarkit) サーバサイドJavaScriptの本命「node.js」の基礎知識 (1/3)](https://www.atmarkit.co.jp/ait/articles/1102/28/news105.html)
 1. [(digitalidentity) JavaScriptをサーバサイドで動かせる！Node.jsの魅力とは？](https://digitalidentity.co.jp/blog/creative/javascript-nodejs.html) <-- 読んだ
 1. [(techacademy) サーバサイドJavaScriptとは?方法を現役エンジニアが解説【初心者向け】](https://techacademy.jp/magazine/34399)
@@ -32,16 +38,17 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 1. [(MDN) Express Web フレームワーク (Node.js/JavaScript)](https://developer.mozilla.org/ja/docs/Learn/Server-side/Express_Nodejs)
 1. [(qiita) サルでも分かるExpressでのjsonAPIサーバーの作り方](https://qiita.com/ngmr_mo/items/73cc7160d002a4989416)
 1. [(qiita) Node.js + Expressで超簡単API](https://qiita.com/k-penguin-sato/items/5d0db0116843396946bd)
-
-シリーズもの
 1. [(tutorialpoint) Node.js - Express Framework](https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm)
 1. [(w3schools) Node.js Tutorial](https://www.w3schools.com/nodejs/default.asp)
 1. [(MDN) サーバサイド Web サイトプログラミング](https://developer.mozilla.org/ja/docs/Learn/Server-side)
 
+---
+
 <br>
 <br>
 
-JavaScript & サーバ関連で、気になっている事柄・キーワード
+### JavaScript & サーバ関連で、気になっている事柄・キーワード
+
 - Node.js
 - Express.js
 - React.js
@@ -51,6 +58,8 @@ JavaScript & サーバ関連で、気になっている事柄・キーワード
 - ajax
 - npm/npx
 - app/アプリケーショーン
+
+---
 
 <br>
 <br>
@@ -62,6 +71,8 @@ JavaScript & サーバ関連で、気になっている事柄・キーワード
 
 <br>
 <br>
+
+---
 
 ### 最後に
 
