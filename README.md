@@ -6,6 +6,7 @@ JavaScriptのサーバー操作を学びます
 (参照:[MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Client-Server_overview))
 
 <br>
+<br>
 
 一文で言い表す
 
@@ -13,6 +14,7 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 
 上記の記事によると、JavaScriptのサーバ操作は主にHTTP通信の操作の事らしいです
 
+<br>
 <br>
 
 クイックリビュー（日本語・英語、混濁）
@@ -37,6 +39,7 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 1. [(MDN) サーバサイド Web サイトプログラミング](https://developer.mozilla.org/ja/docs/Learn/Server-side)
 
 <br>
+<br>
 
 JavaScript & サーバ関連で、気になっている事柄・キーワード
 - Node.js
@@ -50,10 +53,14 @@ JavaScript & サーバ関連で、気になっている事柄・キーワード
 - app/アプリケーショーン
 
 <br>
+<br>
 
-## [Node.js 本サイト](https://nodejs.org/en/docs/guides/)
-## [Express.js 本サイト](https://expressjs.com/en/starter/installing.html)
+### 本サイト
 
+- [Node.js](https://nodejs.org/en/docs/guides/)
+- [Express.js](https://expressjs.com/en/starter/installing.html)
+
+<br>
 <br>
 
 ### 最後に
@@ -63,6 +70,9 @@ JavaScript & サーバ関連で、気になっている事柄・キーワード
 https://blog.bitsrc.io/a-beginners-guide-to-server-side-web-development-with-node-js-17385da09f93
 
 ---
+
+<br>
+<br>
 
 ### 記事読了後の感想
 
