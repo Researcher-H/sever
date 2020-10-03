@@ -64,7 +64,7 @@ https://blog.bitsrc.io/a-beginners-guide-to-server-side-web-development-with-nod
 
 ---
 
-### 記事を読了後の感想
+### 記事読了後の感想
 
 nodejs' framework
 ----- express
