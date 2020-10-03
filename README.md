@@ -8,6 +8,9 @@ JavaScriptのサーバー操作を学びます
 1. [(pc-koubou) Node.jsでサーバーサイドJavascriptに挑戦](https://www.pc-koubou.jp/magazine/32604)
 1. [(kagoya) 【超入門】JavaScriptとは？できること・基本をわかりやすく解説](https://www.kagoya.jp/howto/webhomepage/javascript/)
 1. [(persol-tech-s) 【Node.js】サーバーサイドでJavaScriptを使う利点](https://persol-tech-s.co.jp/hatalabo/it_engineer/225.html)
+1. [(MDN) サーバからのデータ取得](https://developer.mozilla.org/ja/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
+1. [(Qiita) サーバサイドJavaScriptの実装例と単体テスト](https://qiita.com/stakezaki/items/8ad539d6e83f28117e93)
+1. [(arakan-pgm-ai) Webフロントエンドとサーバーサイドの技術動向をざっくり整理する／JavaScript](https://arakan-pgm-ai.hatenablog.com/entry/2019/04/18/000000)
 1. [()]()
 1. [()]()
 1. [()]()
@@ -19,8 +22,6 @@ JavaScriptのサーバー操作を学びます
 1. [()]()
 1. [()]()
 1. [()]()
-1. [()]()
-
 
 
 
