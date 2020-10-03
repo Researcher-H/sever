@@ -9,7 +9,17 @@ JavaScriptのサーバー操作を学びます
 1. [(kagoya) 【超入門】JavaScriptとは？できること・基本をわかりやすく解説](https://www.kagoya.jp/howto/webhomepage/javascript/)
 1. [(persol-tech-s) 【Node.js】サーバーサイドでJavaScriptを使う利点](https://persol-tech-s.co.jp/hatalabo/it_engineer/225.html)
 1. [()]()
-
+1. [()]()
+1. [()]()
+1. [()]()
+1. [()]()
+1. [()]()
+1. [()]()
+1. [()]()
+1. [()]()
+1. [()]()
+1. [()]()
+1. [()]()
 
 
 
