@@ -8,7 +8,7 @@ JavaScriptのサーバー操作を学びます
 
 https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-javascript
 
-上記の記事によると、JavaScriptのサーバ操作は主にHTTP通信の操作らしいです
+上記の記事によると、JavaScriptのサーバ操作は主にHTTP通信の操作の事らしいです
 
 <br>
 
