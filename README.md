@@ -11,7 +11,6 @@ JavaScriptのサーバー操作を学びます(下図の①②の操作)
 ---
 
 <br>
-<br>
 
 ### 一文で言い表す
 
@@ -20,11 +19,9 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 上記の記事によると、JavaScriptのサーバ操作は主にHTTP通信の操作の事らしいです
 
 <br>
-<br>
 
 ---
 
-<br>
 <br>
 
 ### クイックリビュー（日本語・英語、混濁）
@@ -48,11 +45,9 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 1. [(MDN) サーバサイド Web サイトプログラミング](https://developer.mozilla.org/ja/docs/Learn/Server-side)
 
 <br>
-<br>
 
 ---
 
-<br>
 <br>
 
 ### JavaScript & サーバ関連で、気になっている事柄・キーワード
@@ -68,11 +63,9 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 - app/アプリケーショーン
 
 <br>
-<br>
 
 ---
 
-<br>
 <br>
 
 ### 本サイト
@@ -81,9 +74,10 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 - [Express.js](https://expressjs.com/en/starter/installing.html)
 
 <br>
-<br>
 
 ---
+
+<br>
 
 ### 最後に
 
@@ -91,7 +85,6 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 
 https://blog.bitsrc.io/a-beginners-guide-to-server-side-web-development-with-node-js-17385da09f93
 
-<br>
 <br>
 
 ---
