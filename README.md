@@ -15,8 +15,6 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 
 ---
 
-<br>
-
 ### クイックリビュー（日本語・英語、混濁）
 
 1. [(atmarkit) サーバサイドJavaScriptの本命「node.js」の基礎知識 (1/3)](https://www.atmarkit.co.jp/ait/articles/1102/28/news105.html)
@@ -37,11 +35,7 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 1. [(w3schools) Node.js Tutorial](https://www.w3schools.com/nodejs/default.asp)
 1. [(MDN) サーバサイド Web サイトプログラミング](https://developer.mozilla.org/ja/docs/Learn/Server-side)
 
-<br>
-
 ---
-
-<br>
 
 ### JavaScript & サーバ関連で、気になっている事柄・キーワード
 
@@ -55,22 +49,14 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 - npm/npx
 - app/アプリケーショーン
 
-<br>
-
 ---
-
-<br>
 
 ### 本サイト
 
 - [Node.js](https://nodejs.org/en/docs/guides/)
 - [Express.js](https://expressjs.com/en/starter/installing.html)
 
-<br>
-
 ---
-
-<br>
 
 ### 最後に
 
@@ -78,12 +64,7 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 
 https://blog.bitsrc.io/a-beginners-guide-to-server-side-web-development-with-node-js-17385da09f93
 
-<br>
-
 ---
-
-<br>
-<br>
 
 ### 記事読了後の感想
 
@@ -96,17 +77,7 @@ Node.jsはシングルスレッドで処理(1つのリクエストに対して1�
 Node.jsはNoSQLを使用 -> NoSQL = JSONでデータを管理  
 NoSQL - MongoDB  
 
-
-
-
-
-<br>
-<br>
-
 ---
-
-<br>
-<br>
 
 #### Glossary
 - ノンブロッキングI/O (Input/Output)
