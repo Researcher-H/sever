@@ -8,7 +8,7 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 
 上記の記事によると、JavaScriptのサーバ操作は主にHTTP通信の操作らしいです
 
-
+<br>
 
 クイックリビュー
 1. [(atmarkit) サーバサイドJavaScriptの本命「node.js」の基礎知識 (1/3)](https://www.atmarkit.co.jp/ait/articles/1102/28/news105.html)
