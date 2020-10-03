@@ -17,7 +17,7 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 
 クイックリビュー（日本語・英語、混濁）
 1. [(atmarkit) サーバサイドJavaScriptの本命「node.js」の基礎知識 (1/3)](https://www.atmarkit.co.jp/ait/articles/1102/28/news105.html)
-1. [(digitalidentity) JavaScriptをサーバサイドで動かせる！Node.jsの魅力とは？](https://digitalidentity.co.jp/blog/creative/javascript-nodejs.html)
+1. [(digitalidentity) JavaScriptをサーバサイドで動かせる！Node.jsの魅力とは？](https://digitalidentity.co.jp/blog/creative/javascript-nodejs.html) <-- 読んだ
 1. [(techacademy) サーバサイドJavaScriptとは?方法を現役エンジニアが解説【初心者向け】](https://techacademy.jp/magazine/34399)
 1. [(pc-koubou) Node.jsでサーバーサイドJavascriptに挑戦](https://www.pc-koubou.jp/magazine/32604)
 1. [(kagoya) 【超入門】JavaScriptとは？できること・基本をわかりやすく解説](https://www.kagoya.jp/howto/webhomepage/javascript/)
@@ -62,3 +62,44 @@ JavaScript & サーバ関連で、気になっている事柄・キーワード
 
 https://blog.bitsrc.io/a-beginners-guide-to-server-side-web-development-with-node-js-17385da09f93
 
+---
+
+### 記事を読了後の感想
+
+nodejs' framework
+----- express
+----- koa
+----- etc
+
+Node.jsはシングルスレッドで処理(1つのリクエストに対して1つのスレッド)  
+Node.jsはNoSQLを使用 -> NoSQL = JSONでデータを管理  
+NoSQL - MongoDB  
+
+
+
+
+
+
+
+Glossary
+- ノンブロッキングI/O (Input/Output)
+- ブロッキング処理 = 一つの処理が完了するまで他の処理は行わない = sync, async
+- WebSocket通信 = ウェブアプリ（インターネットを介して動作するapp）で双方向通信を実現するための技術規格
+- サーバサイドの処理において、Googleが開発しているGolangという言語
+- CMS = サーバサイドで使われる主な言語 (PHP、Ruby、Python)
+- Node.jsで扱えるCMS - KeystoneJS, ButterCMS
+- SPA(Single Page Application)
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
