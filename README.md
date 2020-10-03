@@ -4,7 +4,7 @@ JavaScriptのサーバー操作を学びます
 
 <br>
 
-### 一言で言い表す
+一文で言い表す
 
 https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-javascript
 
