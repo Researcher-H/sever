@@ -17,9 +17,9 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 
 ### クイックリビュー（日本語・英語、混濁）
 
-1. [(techacademy) サーバサイドJavaScriptとは?方法を現役エンジニアが解説【初心者向け】](https://techacademy.jp/magazine/34399)　【読んだ】★
-1. [(persol-tech-s) 【Node.js】サーバーサイドでJavaScriptを使う利点](https://persol-tech-s.co.jp/hatalabo/it_engineer/225.html) 　【読んだ】★
-1. [(digitalidentity) JavaScriptをサーバサイドで動かせる！Node.jsの魅力とは？](https://digitalidentity.co.jp/blog/creative/javascript-nodejs.html)　【読んだ】★★★
+1. [(techacademy) サーバサイドJavaScriptとは?方法を現役エンジニアが解説【初心者向け】](https://techacademy.jp/magazine/34399)　【読んだ】★ 基礎の基礎の基礎
+1. [(persol-tech-s) 【Node.js】サーバーサイドでJavaScriptを使う利点](https://persol-tech-s.co.jp/hatalabo/it_engineer/225.html) 　【読んだ】★ 基礎の基礎の基礎
+1. [(digitalidentity) JavaScriptをサーバサイドで動かせる！Node.jsの魅力とは？](https://digitalidentity.co.jp/blog/creative/javascript-nodejs.html)　【読んだ】★★★ 
 1. [(pc-koubou) Node.jsでサーバーサイドJavascriptに挑戦](https://www.pc-koubou.jp/magazine/32604)　【読んだ】★★★
 1. [(arakan-pgm-ai) Webフロントエンドとサーバーサイドの技術動向をざっくり整理する／JavaScript](https://arakan-pgm-ai.hatenablog.com/entry/2019/04/18/000000)　【読んだ】★★★
 1. [(st.jmooc) Node.jsによるサーバ](https://st.jmooc.jp/javascript/s5_javascript_server.html)　【読んだ】★★★★ Node.jsで自作サイトをネットへ接続する方法、ファイアーウォール設定
