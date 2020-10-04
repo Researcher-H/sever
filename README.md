@@ -79,6 +79,7 @@ Node.jsはGoogleV8JavaScriptEngineを使用していて高速
 大量の接続があっても処理速度が落ちない  
 小さなデータのやり取りを頻繁に行うWebアプリケーションでの利用に向いている  
 
+
 require('fs')  
 require('http')  
 require('url')  
