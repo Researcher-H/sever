@@ -22,7 +22,7 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 1. [(techacademy) サーバサイドJavaScriptとは?方法を現役エンジニアが解説【初心者向け】](https://techacademy.jp/magazine/34399)　【読んだ】★
 1. [(persol-tech-s) 【Node.js】サーバーサイドでJavaScriptを使う利点](https://persol-tech-s.co.jp/hatalabo/it_engineer/225.html) 　【読んだ】★
 1. [(arakan-pgm-ai) Webフロントエンドとサーバーサイドの技術動向をざっくり整理する／JavaScript](https://arakan-pgm-ai.hatenablog.com/entry/2019/04/18/000000)　【読んだ】★★★
-1. [(st.jmooc) Node.jsによるサーバ](https://st.jmooc.jp/javascript/s5_javascript_server.html)
+1. [(st.jmooc) Node.jsによるサーバ](https://st.jmooc.jp/javascript/s5_javascript_server.html)　【読んだ】★★★★
 1. [(MDN) サーバからのデータ取得](https://developer.mozilla.org/ja/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
 1. [(atmarkit) サーバサイドJavaScriptの本命「node.js」の基礎知識 (1/3)](https://www.atmarkit.co.jp/ait/articles/1102/28/news105.html)
 1. [(qiita) Node.jsとExpressでローカルサーバーを構築する(1) ―Node.jsとnpmの導入―](https://qiita.com/koedamon/items/37ea8e9175cf0fd62371)
@@ -77,11 +77,37 @@ NoSQL - MongoDB
 Node.jsはGoogleV8JavaScriptEngineを使用していて高速  
 大量の接続があっても処理速度が落ちない  
 小さなデータのやり取りを頻繁に行うWebアプリケーションでの利用に向いている  
+ポートは整数で、IP は文字列  
+listen メソッドで、 初めて実際にサーバが HTTP request を受付始める  
 
+contentTypeの処理  
 
-require('fs')  
-require('http')  
+色んなcontentType  
+msg1.writeHead(200, {'Content-Type': 'text/html'});  
+'html': 'text/html',  
+'htm' : 'text/htm',  
+'css' : 'text/css',  
+'js'  : 'text/javaScript; charset=utf-8',  
+'jpeg': 'image/jpeg',  
+'jpg' : 'image/jpg',  
+'gif' : 'image/gif',  
+'png' : 'image/png'  
+一般に、127.0.0.1 というIPアドレスは localhostという特別なアドレスとされている  
+
+require('fs')  // file system  
+require('http')  // http server  
 require('url')  
+
+var http_server = (require('http')).createServer();  
+// http_server に 'request' イベントを設定  
+http_server.on('request',  
+
+ファイアウォールの設定でLAN（ルータ）上で同じWIFIを使っていればマシンに指定されたIPアドレスを指定すればアクセス出来るようになる  
+インターネットへの公開  
+完成したWebサイトをレンタルサーバ上でデプロイ(稼働)する  
+レンタルサーバの維持費は月にコーヒー一杯程度で済む場合が多い。 こうして公開したサーバでも、全世界の利用者にサービスを提供することができる。  
+
+
 
 ---
 
