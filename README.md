@@ -21,7 +21,6 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 1. [(digitalidentity) JavaScriptをサーバサイドで動かせる！Node.jsの魅力とは？](https://digitalidentity.co.jp/blog/creative/javascript-nodejs.html)　【読んだ】★★★
 1. [(pc-koubou) Node.jsでサーバーサイドJavascriptに挑戦](https://www.pc-koubou.jp/magazine/32604)　【読んだ】★★★
 1. [(techacademy) サーバサイドJavaScriptとは?方法を現役エンジニアが解説【初心者向け】](https://techacademy.jp/magazine/34399)　【読んだ】★
-1. [(kagoya) 【超入門】JavaScriptとは？できること・基本をわかりやすく解説](https://www.kagoya.jp/howto/webhomepage/javascript/)
 1. [(persol-tech-s) 【Node.js】サーバーサイドでJavaScriptを使う利点](https://persol-tech-s.co.jp/hatalabo/it_engineer/225.html)
 1. [(qiita) Node.jsとExpressでローカルサーバーを構築する(1) ―Node.jsとnpmの導入―](https://qiita.com/koedamon/items/37ea8e9175cf0fd62371)
 1. [(qiita) サーバサイドJavaScriptの実装例と単体テスト](https://qiita.com/stakezaki/items/8ad539d6e83f28117e93)
