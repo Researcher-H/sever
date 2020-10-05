@@ -25,8 +25,6 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 1. [(st.jmooc) Node.jsによるサーバ](https://st.jmooc.jp/javascript/s5_javascript_server.html)　【読んだ】★★★★ Node.jsで自作サイトをネットへ接続する方法、ファイアーウォール設定
 1. [(MDN) サーバからのデータ取得](https://developer.mozilla.org/ja/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
 
-<br>
-
 ### シリーズもの (日本語・英語、混濁)
 
 1. [(tutorialspoint) ExpressJS Tutorial](https://www.tutorialspoint.com/expressjs/index.htm)
