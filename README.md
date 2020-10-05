@@ -23,19 +23,19 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 1. [(pc-koubou) Node.jsでサーバーサイドJavascriptに挑戦](https://www.pc-koubou.jp/magazine/32604)　【読んだ】★★★
 1. [(arakan-pgm-ai) Webフロントエンドとサーバーサイドの技術動向をざっくり整理する／JavaScript](https://arakan-pgm-ai.hatenablog.com/entry/2019/04/18/000000)　【読んだ】★★★
 1. [(st.jmooc) Node.jsによるサーバ](https://st.jmooc.jp/javascript/s5_javascript_server.html)　【読んだ】★★★★ Node.jsで自作サイトをネットへ接続する方法、ファイアーウォール設定
-1. [(MDN) サーバからのデータ取得](https://developer.mozilla.org/ja/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
 
 ### シリーズもの (日本語・英語、混濁)
 
-1. [(tutorialspoint) ExpressJS Tutorial](https://www.tutorialspoint.com/expressjs/index.htm)
 1. [(atmarkit) サーバサイドJavaScriptの本命「node.js」の基礎知識 (1/3)](https://www.atmarkit.co.jp/ait/articles/1102/28/news105.html)
 1. [(qiita) Node.jsとExpressでローカルサーバーを構築する(1) ―Node.jsとnpmの導入―](https://qiita.com/koedamon/items/37ea8e9175cf0fd62371)
-1. [(MDN) Express Web フレームワーク (Node.js/JavaScript)](https://developer.mozilla.org/ja/docs/Learn/Server-side/Express_Nodejs)
 1. [(qiita) サルでも分かるExpressでのjsonAPIサーバーの作り方](https://qiita.com/ngmr_mo/items/73cc7160d002a4989416)
 1. [(qiita) Node.js + Expressで超簡単API](https://qiita.com/k-penguin-sato/items/5d0db0116843396946bd)
-1. [(tutorialpoint) Node.js - Express Framework](https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm)
-1. [(w3schools) Node.js Tutorial](https://www.w3schools.com/nodejs/default.asp)
 1. [(MDN) サーバサイド Web サイトプログラミング](https://developer.mozilla.org/ja/docs/Learn/Server-side)
+1. [(MDN) サーバからのデータ取得](https://developer.mozilla.org/ja/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
+1. [(MDN) Express Web フレームワーク (Node.js/JavaScript)](https://developer.mozilla.org/ja/docs/Learn/Server-side/Express_Nodejs)
+1. [(w3schools) Node.js Tutorial](https://www.w3schools.com/nodejs/default.asp)
+1. [(tutorialspoint) ExpressJS Tutorial](https://www.tutorialspoint.com/expressjs/index.htm)
+1. [(tutorialpoint) Node.js - Express Framework](https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm)
 
 ---
 
