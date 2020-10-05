@@ -50,6 +50,8 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 - ajax
 - npm/npx
 - app/アプリケーショーン
+- バックエンド　vs サーバ
+- フロントエンド vs クライアント
 
 ---
 
