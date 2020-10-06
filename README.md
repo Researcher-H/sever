@@ -7,6 +7,13 @@ JavaScriptのサーバー操作を学びます(下図の①②+(DB③)の操作)
 
 ---
 
+1. [一文で言い表す](#anchor1)
+1. [クイックリビュー](#anchor2)
+1. [キーワード](#anchor3)
+
+---
+<a id="anchor1"></a>
+
 ### 一文で言い表す
 
 https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-javascript
@@ -14,6 +21,7 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 上記の記事によると、JavaScriptのサーバ操作は主にHTTP通信の操作の事らしいです
 
 ---
+<a id="anchor2"></a>
 
 ### クイックリビュー (日本語・英語、混濁)
 
@@ -48,6 +56,7 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 1. [(Programming with Mosh) How to build a REST API with Node js & Express](https://www.youtube.com/watch?v=pKd0Rpw7O48)
 
 ---
+<a id="anchor3"></a>
 
 ### JavaScript & サーバ関連で、気になっている事柄・キーワード
 
