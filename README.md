@@ -37,6 +37,12 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 1. [(tutorialspoint) ExpressJS Tutorial](https://www.tutorialspoint.com/expressjs/index.htm)
 1. [(tutorialpoint) Node.js - Express Framework](https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm)
 
+### Youtube (日本語・英語、混濁)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+1. [(tutorialpoint) Node.js - Express Framework](https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm)
+
 ---
 
 ### JavaScript & サーバ関連で、気になっている事柄・キーワード
