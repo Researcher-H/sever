@@ -23,11 +23,10 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 1. [(pc-koubou) Node.jsでサーバーサイドJavascriptに挑戦](https://www.pc-koubou.jp/magazine/32604)　【読んだ】★★★
 1. [(arakan-pgm-ai) Webフロントエンドとサーバーサイドの技術動向をざっくり整理する／JavaScript](https://arakan-pgm-ai.hatenablog.com/entry/2019/04/18/000000)　【読んだ】★★★
 1. [(st.jmooc) Node.jsによるサーバ](https://st.jmooc.jp/javascript/s5_javascript_server.html)　【読んだ】★★★★ 特にNode.jsで自作サイトをネットへ接続する方法、ファイアーウォール設定
-
 1. [(node.js) Node.js v14.13 Documentation](https://nodejs.org/api/)　
 1. [(MDN) http](https://developer.mozilla.org/ja/docs/Web/HTTP)
 1. [(node.js) Anatomy of an HTTP Transaction](https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/)
-
+1. [(medium) HTTP Server: Everything you need to know to Build a simple HTTP server from scratch](https://medium.com/from-the-scratch/http-server-what-do-you-need-to-know-to-build-a-simple-http-server-from-scratch-d1ef8945e4fa)
 
 ### シリーズもの (日本語・英語、混濁)
 
@@ -40,7 +39,7 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 1. [(MDN) Express Web フレームワーク (Node.js/JavaScript)](https://developer.mozilla.org/ja/docs/Learn/Server-side/Express_Nodejs)
 1. [(w3schools) Node.js Tutorial](https://www.w3schools.com/nodejs/default.asp)
 1. [(tutorialspoint) ExpressJS Tutorial](https://www.tutorialspoint.com/expressjs/index.htm)
-1. [(tutorialpoint) Node.js - Express Framework](https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm)
+1. [(tutorialspoint) Node.js - Express Framework](https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm)
 
 ### Youtube (日本語・英語、混濁)
 
