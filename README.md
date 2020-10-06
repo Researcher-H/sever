@@ -20,6 +20,8 @@ JavaScriptのサーバー操作を学びます(下図の①②+(DB③)の操作)
 ---
 <a id="anchor1"></a>
 
+<br>
+
 ### 一文で言い表す
 
 <br>
@@ -30,6 +32,8 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 
 ---
 <a id="anchor2"></a>
+
+<br>
 
 ### クイックリビュー (日本語・英語、混濁)
 
@@ -67,6 +71,8 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 
 ---
 <a id="anchor3"></a>
+
+<br>
 
 ### JavaScript & サーバ関連で、気になっている事柄・キーワード
 
