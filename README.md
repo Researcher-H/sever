@@ -15,11 +15,14 @@ JavaScriptのサーバー操作を学びます(下図の①②+(DB③)の操作)
 1. [本サイト(Node.js/Express.js)](#anchor4)
 1. [最後に](#anchor5)
 1. [記事読了後の感想](#anchor6)
+1. [Glossary](#anchor7)
 
 ---
 <a id="anchor1"></a>
 
 ### 一文で言い表す
+
+<br>
 
 https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-javascript
 
@@ -29,6 +32,8 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 <a id="anchor2"></a>
 
 ### クイックリビュー (日本語・英語、混濁)
+
+<br>
 
 1. [(techacademy) サーバサイドJavaScriptとは?方法を現役エンジニアが解説【初心者向け】](https://techacademy.jp/magazine/34399)　【読んだ】★ 基礎の基礎の基礎
 1. [(persol-tech-s) 【Node.js】サーバーサイドでJavaScriptを使う利点](https://persol-tech-s.co.jp/hatalabo/it_engineer/225.html) 　【読んだ】★ 基礎の基礎の基礎
@@ -65,6 +70,8 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 
 ### JavaScript & サーバ関連で、気になっている事柄・キーワード
 
+<br>
+
 - Node.js
 - Express.js
 - React.js
@@ -81,6 +88,8 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 ---
 <a id="anchor4"></a>
 
+<br>
+
 ### 本サイト(Node.js/Express.js)
 
 - [Node.js](https://nodejs.org/en/docs/guides/)
@@ -88,6 +97,8 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 
 ---
 <a id="anchor5"></a>
+
+<br>
 
 ### 最後に
 
@@ -97,6 +108,8 @@ https://blog.bitsrc.io/a-beginners-guide-to-server-side-web-development-with-nod
 
 ---
 <a id="anchor6"></a>
+
+<br>
 
 ### 記事読了後の感想
 
@@ -141,9 +154,10 @@ http_server.on('request',
 完成したWebサイトをレンタルサーバ上でデプロイ(稼働)する  
 レンタルサーバの維持費は月にコーヒー一杯程度で済む場合が多い。 こうして公開したサーバでも、全世界の利用者にサービスを提供することができる。  
 
-
-
 ---
+<a id="anchor7"></a>
+
+<br>
 
 #### Glossary
 - ノンブロッキングI/O (Input/Output)
