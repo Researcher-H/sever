@@ -106,6 +106,16 @@ Node.js
 Express.js
 - [Express.js](https://expressjs.com/en/starter/installing.html)
 
+Guides
+- General
+  - Getting Started Guide <- done!
+  - Debugging - Getting Started
+  - Easy profiling for Node.js Applications
+  - Diagnostics - Flame Graphs
+  - Dockerizing a Node.js web app
+  - Migrating to safe Buffer constructors
+
+
 ---
 <a id="anchor5"></a>
 
