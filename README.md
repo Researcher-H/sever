@@ -100,7 +100,10 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 
 ### 本サイト(Node.js/Express.js)
 
-- [Node.js](https://nodejs.org/en/docs/guides/)
+Node.js
+- [Guides](https://nodejs.org/en/docs/guides/)
+- [Introduction to Node.js](https://nodejs.dev/learn)
+Express.js
 - [Express.js](https://expressjs.com/en/starter/installing.html)
 
 ---
@@ -168,6 +171,16 @@ http_server.on('request',
 
 ---
 <a id="anchor7"></a>
+
+<br>
+
+### Node.js modules/methods
+
+- const http = require('http');
+- 
+
+---
+<a id="anchor8"></a>
 
 <br>
 
