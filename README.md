@@ -111,11 +111,10 @@ Guides
 - General
   - Getting Started Guide <- done!
   - Debugging - Getting Started
-  - Easy profiling for Node.js Applications
+  - Easy profiling for Node.js Applications <- done! プロファイリングで、非同期化を最大にし、時間のかかる処理を減らす方法
   - Diagnostics - Flame Graphs
   - Dockerizing a Node.js web app
   - Migrating to safe Buffer constructors
-
 
 ---
 <a id="anchor5"></a>
