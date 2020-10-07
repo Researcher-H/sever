@@ -49,7 +49,7 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 1. [(MDN) http](https://developer.mozilla.org/ja/docs/Web/HTTP)
 1. [(node.js) Anatomy of an HTTP Transaction](https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/)
 1. [(medium) HTTP Server: Everything you need to know to Build a simple HTTP server from scratch](https://medium.com/from-the-scratch/http-server-what-do-you-need-to-know-to-build-a-simple-http-server-from-scratch-d1ef8945e4fa)
-1. [(alvarezskinner) REST APIs with Node.js and Express - #1: Setup the Project](https://alvarezskinner.com/api-node-express-part1/) 【読んだ】★★★ シンプルなREST APIを作る時に必要な実装順
+1. [(alvarezskinner) REST APIs with Node.js and Express - #1: Setup the Project](https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Falvarezskinner.com%2Fapi-node-express-part1%2F) 【読んだ】★★★ シンプルなREST APIを作る時に必要な実装順
 
 
 ### シリーズもの (日本語・英語、混濁)
