@@ -185,6 +185,20 @@ Node knockout
 https://www.nodeknockout.com/  
 
 ---
+<a id="anchor6"></a>
+
+<br>
+
+### まとめ
+
+Vanilla JavaScript  
+--- Node.js  
+--------- Express.js  
+
+<br>
+
+
+---
 <a id="anchor7"></a>
 
 <br>
