@@ -54,7 +54,7 @@ https://stackoverflow.com/questions/459238/when-and-how-do-you-use-server-side-j
 
 ### シリーズもの (日本語・英語、混濁)
 
-1. [(atmarkit) サーバサイドJavaScriptの本命「node.js」の基礎知識 (1/3)](https://www.atmarkit.co.jp/ait/articles/1102/28/news105.html)
+1. [(atmarkit) サーバサイドJavaScriptの本命「node.js」の基礎知識 (1/3)](https://www.atmarkit.co.jp/ait/articles/1102/28/news105.html)　【読んだ】★ 有益な情報はnode knockoutぐらい
 1. [(qiita) Node.jsとExpressでローカルサーバーを構築する(1) ―Node.jsとnpmの導入―](https://qiita.com/koedamon/items/37ea8e9175cf0fd62371)
 1. [(qiita) サルでも分かるExpressでのjsonAPIサーバーの作り方](https://qiita.com/ngmr_mo/items/73cc7160d002a4989416)
 1. [(qiita) Node.js + Expressで超簡単API](https://qiita.com/k-penguin-sato/items/5d0db0116843396946bd)
@@ -178,6 +178,9 @@ http_server.on('request',
 インターネットへの公開  
 完成したWebサイトをレンタルサーバ上でデプロイ(稼働)する  
 レンタルサーバの維持費は月にコーヒー一杯程度で済む場合が多い。 こうして公開したサーバでも、全世界の利用者にサービスを提供することができる。  
+
+Node knockout  
+https://www.nodeknockout.com/  
 
 ---
 <a id="anchor7"></a>
