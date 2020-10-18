@@ -184,6 +184,23 @@ http_server.on('request',
 Node knockout  
 https://www.nodeknockout.com/  
 
+express  
+Router  
+route  
+
+middleware
+
+JSON Server使いこなし  
+第1回 モックサーバーの起動とリソース処理  
+https://app.codegrid.net/entry/2017-json-server-1  
+
+json-server  
+https://github.com/typicode/json-server  
+
+hosting???
+
+
+
 ---
 <a id="anchor6"></a>
 
